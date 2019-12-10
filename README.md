@@ -26,3 +26,4 @@
 #### Pytest
 - Pytests needs to be installed as a package
 - However, it is pretty and clean
+- Will test for file names 'test_^' or '^_test'
